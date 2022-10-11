@@ -1,7 +1,16 @@
-### Hi there i am JAMES https://iconscout.com/lottie/hand-waving-6219625
+### Hi there i am JAMES ![hello](https://user-images.githubusercontent.com/98466955/195117650-4626fab5-0cea-48ce-bff3-7b0d0226ba25.svg)
+
 
 ___________________________________________________________________________________________________________________________________________________________
-                                                                   [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40bukotsunikki)](https://twitter.com/bukotsunikki)
+   ![linkedin-logo](https://www.linkedin.com/in/jamesasibeymanu/) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 <!--
 **jaamanu/jaamanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
