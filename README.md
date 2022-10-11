@@ -1,4 +1,5 @@
-### Hi there i am JAMES!      [hello](https://user-images.githubusercontent.com/98466955/195123461-4a09e150-13d1-4ad3-ba63-471c62d175de.svg)
+### Hi there i am JAMES! ![hello](https://user-images.githubusercontent.com/98466955/195124128-635c5ebd-6a40-4f2e-ae36-a09c62f72628.svg)
+
 
 
 
