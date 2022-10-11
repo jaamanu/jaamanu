@@ -8,8 +8,11 @@ ________________________________________________________________________________
 ![linkedin-logo](https://www.linkedin.com/in/jamesasibeymanu/) ![twitter](https://twitter.com/JamesAsibeyManu)         jaamanu@gmail.com
    
 
+ ## About Me
  
- 
+ [] I hold a Chemical Engineering Degree from Kumasi Technical University Ghana
+ [] I am Fullstack WebDeveloper Student |@microverse| Learning technical, professional and soft skills to become a Software Developer| 
+ [] Currently Enrolled with Microverse, a computer programming institute where i am learning the following Languages HTML/CSS, JAVASCRIPT, RUBY ON RAILS,       REACT, to become a professional remote software developer 
  
  
  
