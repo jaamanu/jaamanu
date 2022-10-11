@@ -11,9 +11,9 @@ ________________________________________________________________________________
 
 ## Contact Me
 
--GitHub:https://github.com/jaamanu
--Twitter:(https://twitter.com/JamesAsibeyManu)
--LinkedIn:(https://www.linkedin.com/in/jamesasibeymanu) 
+- GitHub:https://github.com/jaamanu
+![twitter](https://user-images.githubusercontent.com/98466955/195132920-b9f18633-04a8-493e-ba14-7b436677464a.png)Twitter:(https://twitter.com/JamesAsibeyManu)
+![linkedin-logo](https://user-images.githubusercontent.com/98466955/195133012-65d70955-d96c-417f-ae5a-900b2970571f.png)LinkedIn:(https://www.linkedin.com/in/jamesasibeymanu) 
  
  
  
