@@ -1,9 +1,10 @@
-### Hi there i am JAMES ![hello-7](https://user-images.githubusercontent.com/98466955/195121129-1a4b149f-e652-4c71-9dcc-9de58d876d05.gif)
-
+### Hi there i am JAMES ![hello-7]
 
 
 ___________________________________________________________________________________________________________________________________________________________
    ![linkedin-logo](https://www.linkedin.com/in/jamesasibeymanu/) 
+   (https://user-images.githubusercontent.com/98466955/195121129-1a4b149f-e652-4c71-9dcc-9de58d876d05.gif)
+
  
  
  
