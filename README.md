@@ -1,10 +1,11 @@
-### Hi there i am JAMES! ![hello](https://user-images.githubusercontent.com/98466955/195124128-635c5ebd-6a40-4f2e-ae36-a09c62f72628.svg)
+### Hi there i am JAMES! ![Wave1](https://user-images.githubusercontent.com/98466955/195126941-e98e632b-7c73-4349-9326-c5f66a7837d7.gif)
+
 
 
 
 
 _____________________________________________________________________________________________________________________________________
-![linkedin-logo](https://www.linkedin.com/in/jamesasibeymanu/) 
+![linkedin-logo](https://www.linkedin.com/in/jamesasibeymanu/) ![twitter](https://twitter.com/JamesAsibeyManu)         jaamanu@gmail.com
    
 
  
