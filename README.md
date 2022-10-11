@@ -1,8 +1,4 @@
-### Hi there i am JAMES! ![Wave1](https://user-images.githubusercontent.com/98466955/195126941-e98e632b-7c73-4349-9326-c5f66a7837d7.gif)
-
-
-
-
+### Hi there i am JAMES! ![hello](https://user-images.githubusercontent.com/98466955/195128594-8328c8cf-8ad5-4584-9aac-cb93ee3a1da8.svg)
 
 _____________________________________________________________________________________________________________________________________
 ![linkedin-logo](https://www.linkedin.com/in/jamesasibeymanu/) ![twitter](https://twitter.com/JamesAsibeyManu)         jaamanu@gmail.com
@@ -10,9 +6,9 @@ ________________________________________________________________________________
 
  ## About Me
  
- [] I hold a Chemical Engineering Degree from Kumasi Technical University Ghana
- [] I am Fullstack WebDeveloper Student |@microverse| Learning technical, professional and soft skills to become a Software Developer| 
- [] Currently Enrolled with Microverse, a computer programming institute where i am learning the following Languages HTML/CSS, JAVASCRIPT, RUBY ON RAILS,       REACT, to become a professional remote software developer 
+ # I hold a Chemical Engineering Degree from Kumasi Technical University Ghana
+ # I am Fullstack WebDeveloper Student |@microverse| Learning technical, professional and soft skills to become a Software Developer| 
+ # Currently Enrolled with Microverse, a computer programming institute where i am learning the following Languages HTML/CSS, JAVASCRIPT, RUBY ON RAILS,       REACT, to become a professional remote software developer 
  
  
  
