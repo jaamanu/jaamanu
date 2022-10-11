@@ -1,14 +1,19 @@
-### Hi there i am JAMES! :![hello](https://user-images.githubusercontent.com/98466955/195128594-8328c8cf-8ad5-4584-9aac-cb93ee3a1da8.svg):
+### Hi there i am JAMES! ![hello](https://user-images.githubusercontent.com/98466955/195128594-8328c8cf-8ad5-4584-9aac-cb93ee3a1da8.svg)
 
-_____________________________________________________________________________________________________________________________________
-![linkedin-logo](https://www.linkedin.com/in/jamesasibeymanu/) ![twitter](https://twitter.com/JamesAsibeyManu)         jaamanu@gmail.com
-   
+__________________________________________________________________________________________________________________________________________________________
 
  ## About Me
  
- I hold a Chemical Engineering Degree from Kumasi Technical University Ghana
- Currently Enrolled with Microverse, a computer programming institute Learning technical, where i am learning professional and soft skills to become a       Software Developer 
- 
+-I hold a Chemical Engineering Degree from Kumasi Technical University Ghana
+-Currently Enrolled with Microverse, a computer programming institute Learning technical, where i am learning professional and soft skills to become a      -Software Developer.
+
+___________________________________________________________________________________________________________________________________________________________
+
+## Contact Me
+
+-GitHub:https://github.com/jaamanu
+-Twitter:(https://twitter.com/JamesAsibeyManu)
+-LinkedIn:(https://www.linkedin.com/in/jamesasibeymanu) 
  
  
  
