@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there i am JAMES https://iconscout.com/lottie/hand-waving-6219625
 
+___________________________________________________________________________________________________________________________________________________________
+                                                                   [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40bukotsunikki)](https://twitter.com/bukotsunikki)
 <!--
 **jaamanu/jaamanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
