@@ -8,6 +8,20 @@ ________________________________________________________________________________
 
 _______________________________________________________________________________________________________________________________________________________
 
+![image](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47jipdebsck8epkt11e1pa4pfecoagm513zverybt5&rid=giphy.gif&ct=g)
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Contact Me
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jaamanu.github.io/Project-Portfolio/)
