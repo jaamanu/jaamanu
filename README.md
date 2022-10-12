@@ -6,18 +6,37 @@ ________________________________________________________________________________
 -I hold a Chemical Engineering Degree from Kumasi Technical University Ghana
 -Currently Enrolled with Microverse, a computer programming institute, where i am learning technical,professional and soft skills to become a  Software   Developer.
 
-_______________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________________
 
 ![image](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47jipdebsck8epkt11e1pa4pfecoagm513zverybt5&rid=giphy.gif&ct=g)
 
 
+🔭 I’m currently studying at Microverse.
+
+🌱 I’m currently learning ES6, React, Node.js and Ruby
+
+👯 I’m looking to collaborate on Projects and other cool creations.
+
+⚡ Fun fact I'm quite tall so be aware if we ever meet.
+
+___________________________________________________________________________________________________________________________________________________________
+## TECHNOLOGIES 
+___________________________________________________________________________________________________________________________________________________________
+
+## Languages 
+
+
+## Frameworks
+
+
+## Testing 
 
 
 
+## Version Control & CI/CD
 
 
-
-
+## Other Tools
 
 
 
@@ -35,8 +54,6 @@ ________________________________________________________________________________
 
 [![Microverse HTML/CSS License](https://img.shields.io/badge/HTML/CSS-MicroverseCertificate-1.svg)](https://www.credential.net/8a4b8512-445f-49c1-a97e-6f2576c9edb3#gs.fftznz)
 
-
-[![Microverse INTRO TO REMOTE WEB DEVELOPMENT License](https://img.shields.io/badge/INTRO TO REMOTE WEB DEVELOPMENT-MicroverseCertificate-1.svg)](https://www.credential.net/92024a07-e111-4029-af67-f44598081c8a#gs.ffsdfp)
 
 
 
@@ -58,12 +75,7 @@ If you have any feedback, please reach out to me at jaamanu@gmail.com
 
 
 
-<!--
-- Github:(https://github.com/jaamanu)
-- Twitter:(https://twitter.com/JamesAsibeyManu)
-- LinkedIn:(https://www.linkedin.com/in/jamesasibeymanu) 
---> 
- 
+
  
  
  
