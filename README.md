@@ -68,7 +68,8 @@ https://github.com/jaamanu  https://git-scm.com/
 
 [![UDEMY AWS CloudPractitioner/1](https://img.shields.io/badge/CloudPractitioner/1-UDEMY-1.svg)](https://www.udemy.com/certificate/UC-4789aaae-6c97-47eb-94e1-dbe6627d52e1)
 
-![ScreenShot](/screenshots/![Screen Shot 2022-10-12 at 23 55 10](https://user-images.githubusercontent.com/98466955/195465589-00922b55-04cc-45dc-a660-0f4425453469.png)
+![ScreenShot](https://user-images.githubusercontent.com/98466955/195465589-00922b55-04cc-45dc-a660-0f4425453469.png)
+
 ## Feedback
 
 - 📫 If you have any feedback, please reach out to me at jaamanu@gmail.com
