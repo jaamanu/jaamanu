@@ -22,9 +22,9 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________________________________________
 
 ## Languages 
-! [image] (<a href="https://www.flaticon.com/free-icons/html-5" title="html 5 icons">Html 5 icons created by Freepik - Flaticon</a>)
-! [image] (<a href="https://www.flaticon.com/free-icons/css-3" title="css 3 icons">Css 3 icons created by Freepik - Flaticon</a>)
-! [image] (<a href="https://www.flaticon.com/free-icons/javascript" title="javascript icons">Javascript icons created by edt.im - Flaticon</a>)
+![image](![java-script](https://user-images.githubusercontent.com/98466955/195467455-99801871-5933-4886-a244-5e255ce86705.png)
+![image](![html-5](https://user-images.githubusercontent.com/98466955/195467504-81c87f3e-d761-4a1f-b1b6-ba67282f1163.png)
+![image](![css-3 (1)](https://user-images.githubusercontent.com/98466955/195467582-7b331ca5-b2b8-4900-9d5b-71e583d2937d.png)
 
 ## Frameworks
 
