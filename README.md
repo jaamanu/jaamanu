@@ -22,8 +22,7 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________________________________
 
 ## Languages 
-![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)(https://www.w3.org/html/)
-https://www.w3schools.com/css/ https://developer.mozilla.org/en-US/docs/Web/JavaScript
+https://www.w3.org/html/ https://www.w3schools.com/css/ https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 ## Frameworks
 
@@ -37,7 +36,13 @@ https://jestjs.io/
 
 https://github.com/jaamanu  https://git-scm.com/
 
-## Other Tools
+## Tech Stack
+
+**Client:** React, Redux, TailwindCSS
+
+**Server:** Node, Express
+
+## Communitie/Forum
 
 
 
@@ -54,14 +59,6 @@ https://github.com/jaamanu  https://git-scm.com/
 ## Certifications/License
 
 [![Microverse HTML/CSS License](https://img.shields.io/badge/HTML/CSS-MicroverseCertificate-1.svg)](https://www.credential.net/8a4b8512-445f-49c1-a97e-6f2576c9edb3#gs.fftznz)
-
-
-
-
-
-
-
-
 
 
 
