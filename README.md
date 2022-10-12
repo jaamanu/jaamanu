@@ -22,7 +22,7 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________________________________________
 
 ## Languages 
-- ![HMTL]([my-image.jpg](https://www.google.com/search?q=html+png&tbm=isch&chips=q:html+png,g_1:icon:t4F-pnq93_U%3D,online_chips:html5+logo:oQeT_xhDjVM%3D&bih=689&biw=1280&hl=en&sa=X&ved=2ahUKEwjXnd_S6Nv6AhV5vCcCHeMVD0oQ4lYoAHoECAEQJw)
+- ![HMTL](https://www.google.com/search?q=html+png&tbm=isch&chips=q:html+png,g_1:icon:t4F-pnq93_U%3D,online_chips:html5+logo:oQeT_xhDjVM%3D&bih=689&biw=1280&hl=en&sa=X&ved=2ahUKEwjXnd_S6Nv6AhV5vCcCHeMVD0oQ4lYoAHoECAEQJw)
 - ![CSS](my-image.jpg)CSS
 - ![JAVASCRIPT](my-image.jpg)JAVACSRIPT
 
