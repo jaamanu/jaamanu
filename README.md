@@ -22,9 +22,10 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________________________________________
 
 ## Languages 
-- (![java-script](https://user-images.githubusercontent.com/98466955/195467455-99801871-5933-4886-a244-5e255ce86705.png)
-- (![html-5](https://user-images.githubusercontent.com/98466955/195467504-81c87f3e-d761-4a1f-b1b6-ba67282f1163.png)
-- (![css-3 (1)](https://user-images.githubusercontent.com/98466955/195467582-7b331ca5-b2b8-4900-9d5b-71e583d2937d.png)
+(![java-script](https://user-images.githubusercontent.com/98466955/195467455-99801871-5933-4886-a244-5e255ce86705.png)
+(![html-5](![html-5 (1)](https://user-images.githubusercontent.com/98466955/195468018-73978a83-75af-4a80-b681-6411ecacca41.png)
+)
+(![css-3 (1)](https://user-images.githubusercontent.com/98466955/195467582-7b331ca5-b2b8-4900-9d5b-71e583d2937d.png)
 
 ## Frameworks
 
