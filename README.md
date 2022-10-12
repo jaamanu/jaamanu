@@ -61,9 +61,8 @@ https://github.com/jaamanu  https://git-scm.com/
 ## Certifications/License
 
 [![Microverse HTML/CSS License](https://img.shields.io/badge/HTML/CSS-MicroverseCertificate-1.svg)](https://www.credential.net/8a4b8512-445f-49c1-a97e-6f2576c9edb3#gs.fftznz)
+[![Microverse Intro Web Development/](https://img.shields.io/badge/Intro Web Development-MicroverseCertificate-1.svg)](https://www.credential.net/8a4b8512-445f-49c1-a97e-6f2576c9edb3)
 
-<img src="![Screen Shot 2022-10-12 at 23 55 10](https://user-images.githubusercontent.com/98466955/195455405-b62a08b8-a9cb-4e68-9d0d-76dd8517b6e1.png)
-" alt="Alt text" title="INTRO TO WEB DEVELOPMENT CERTIFICATE">
 
 
 
