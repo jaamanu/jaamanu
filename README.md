@@ -1,4 +1,4 @@
-                                               ![image]!Hey Nice to see you. Welcome to my page 
+![image](https://hotemoji.com/images/emoji/s/17zcrtbfkj7ms.png)!Hey Nice to see you. Welcome to my page!
 ___________________________________________________________________________________________________________________________________________________
 
  ## About Me
@@ -13,13 +13,13 @@ ________________________________________________________________________________
 
 - 🔭 I’m currently studying at Microverse.
 
-- 🌱 I’m currently learning ES6, React, Node.js and Ruby
+- 🌱 I’m currently learning JavaScript, ES6, React, Node.js and Ruby
 
 - 👯 I’m looking to collaborate on Projects and other cool creations.
 
-___________________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________
 ## TECHNOLOGIES 
-___________________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________
 
 ## Languages 
 - HTML 
@@ -28,7 +28,7 @@ ________________________________________________________________________________
 
 ## Frameworks
 
-https://webpack.js.org/ https://getbootstrap.com/
+[![]https://webpack.js.org/ https://getbootstrap.com/
 
 ## Testing
 
@@ -72,29 +72,4 @@ https://github.com/jaamanu  https://git-scm.com/
 ## Feedback
 
 - 📫 If you have any feedback, please reach out to me at jaamanu@gmail.com
-
-
-
-
-
-
-
-
-
- 
- 
- 
-<!--
-**jaamanu/jaamanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-
