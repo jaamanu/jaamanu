@@ -1,4 +1,4 @@
-![image](https://media4.giphy.com/media/3o84TQxuKTqsYEMidi/giphy.gif?cid=ecf05e47rgkqcm1qhpmfz3qqvtozdf5d5ec1qaba5oinum76&rid=giphy.gif&ct=g)!Hey Nice to see you. Welcome to my page 
+![image]!Hey Nice to see you. Welcome to my page 
 ___________________________________________________________________________________________________________________________________________________
 
  ## About Me
