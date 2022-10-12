@@ -22,7 +22,8 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________________________________
 
 ## Languages 
-https://www.w3.org/html/ https://www.w3schools.com/css/ https://developer.mozilla.org/en-US/docs/Web/JavaScript
+![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)(https://www.w3.org/html/)
+https://www.w3schools.com/css/ https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 ## Frameworks
 
