@@ -1,4 +1,4 @@
-![Logo](https://media.tenor.com/uQJyw8sJs5kAAAAC/emoji-emoji-hello.gif)!Hey Nice to see you. Welcome to my page 
+!Hey Nice to see you. Welcome to my page 
 ___________________________________________________________________________________________________________________________________________________
 
  ## About Me
@@ -22,17 +22,19 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________________________________
 
 ## Languages 
-
+https://www.w3.org/html/ https://www.w3schools.com/css/ https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 ## Frameworks
 
+https://webpack.js.org/ https://getbootstrap.com/
 
-## Testing 
+## Testing
 
-
+https://jestjs.io/
 
 ## Version Control & CI/CD
 
+https://github.com/jaamanu  https://git-scm.com/
 
 ## Other Tools
 
