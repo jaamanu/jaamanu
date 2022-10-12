@@ -1,4 +1,4 @@
- # Hello ![Logo] (https://hotemoji.com/images/emoji/s/17zcrtbfkj7ms.png) Nice to see you. I'm James A Manu, Welcome to my page!
+ # Hello ![image](https://hotemoji.com/images/emoji/s/17zcrtbfkj7ms.png) Nice to see you. I'm James A Manu, Welcome to my page!
 ___________________________________________________________________________________________________________________________________________________
 
  ## About Me
