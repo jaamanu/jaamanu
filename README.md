@@ -8,7 +8,7 @@ ________________________________________________________________________________
 
 ______________________________________________________________________________________________________________________________________________________
 
-![image](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47jipdebsck8epkt11e1pa4pfecoagm513zverybt5&rid=giphy.gif&ct=g)
+![image]([)](https://www.flaticon.com/free-icon/html-5_5968267?term=html5&page=1&position=3&page=1&position=3&related_id=5968267&origin=search#)
 
 
 - 🔭 I’m currently studying at Microverse.
@@ -22,10 +22,7 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________________________________________
 
 ## Languages 
-(![java-script](https://user-images.githubusercontent.com/98466955/195467455-99801871-5933-4886-a244-5e255ce86705.png)
-(![html-5](![html-5 (1)](https://user-images.githubusercontent.com/98466955/195468018-73978a83-75af-4a80-b681-6411ecacca41.png)
-)
-(![css-3 (1)](https://user-images.githubusercontent.com/98466955/195467582-7b331ca5-b2b8-4900-9d5b-71e583d2937d.png)
+![image](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e)
 
 ## Frameworks
 
