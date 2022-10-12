@@ -16,6 +16,32 @@ ________________________________________________________________________________
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at jaamanu@gmail.com
+
+
+
+
+
+
+
+
 <!--
 - Github:(https://github.com/jaamanu)
 - Twitter:(https://twitter.com/JamesAsibeyManu)
