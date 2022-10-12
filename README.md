@@ -1,4 +1,4 @@
-![image]!Hey Nice to see you. Welcome to my page 
+![image](https://media.tenor.com/uQJyw8sJs5kAAAAC/emoji-emoji-hello.gif)!Hey Nice to see you. Welcome to my page 
 ___________________________________________________________________________________________________________________________________________________
 
  ## About Me
@@ -16,8 +16,6 @@ ________________________________________________________________________________
 🌱 I’m currently learning ES6, React, Node.js and Ruby
 
 👯 I’m looking to collaborate on Projects and other cool creations.
-
-⚡ Fun fact I'm quite tall so be aware if we ever meet.
 
 ___________________________________________________________________________________________________________________________________________________________
 ## TECHNOLOGIES 
