@@ -11,19 +11,17 @@ ________________________________________________________________________________
 ![image](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47jipdebsck8epkt11e1pa4pfecoagm513zverybt5&rid=giphy.gif&ct=g)
 
 
-🔭 I’m currently studying at Microverse.
+- 🔭 I’m currently studying at Microverse.
 
-🌱 I’m currently learning ES6, React, Node.js and Ruby
+- 🌱 I’m currently learning ES6, React, Node.js and Ruby
 
-👯 I’m looking to collaborate on Projects and other cool creations.
+- 👯 I’m looking to collaborate on Projects and other cool creations.
 
 ___________________________________________________________________________________________________________________________________________________________
 ## TECHNOLOGIES 
 ___________________________________________________________________________________________________________________________________________________________
 
 ## Languages 
-https://www.w3.org/html/ https://www.w3schools.com/css/ https://developer.mozilla.org/en-US/docs/Web/JavaScript
-
 ![image](https://www.pngfind.com/pngs/m/683-6834215_html-css-js-icon-hd-png-download.png)
 
 ## Frameworks
