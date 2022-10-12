@@ -1,4 +1,4 @@
-                                               !Hey Nice to see you. Welcome to my page 
+                                               ![image]!Hey Nice to see you. Welcome to my page 
 ___________________________________________________________________________________________________________________________________________________
 
  ## About Me
@@ -6,9 +6,9 @@ ________________________________________________________________________________
 - I hold a Chemical Engineering Degree from Kumasi Technical University Ghana
 - Currently Enrolled with Microverse, a computer programming institute, where i am learning technical,professional and soft skills to become a           Software   Developer.
 
-___________________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________
 
-                                                           ![image](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?    cid=ecf05e47jipdebsck8epkt11e1pa4pfecoagm513zverybt5&rid=giphy.gif&ct=g)
+![image](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif? cid=ecf05e47jipdebsck8epkt11e1pa4pfecoagm513zverybt5&rid=giphy.gif&ct=g)
 
 
 - 🔭 I’m currently studying at Microverse.
