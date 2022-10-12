@@ -22,12 +22,9 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________________________________________
 
 ## Languages 
-![ScreenShot](![Screen Shot 2022-10-13 at 01 26 51](https://user-images.githubusercontent.com/98466955/195466050-0fe07f49-0878-4c24-9973-2276687eab64.png)
-![ScreenShot](![Screen Shot 2022-10-13 at 01 27 00](https://user-images.githubusercontent.com/98466955/195466071-6a2482b7-5c68-426b-b4f1-705eca7dcdc3.png)
-)
-![ScreenShot](![Screen Shot 2022-10-13 at 01 27 07](https://user-images.githubusercontent.com/98466955/195466084-0d5b1cb9-3c2b-40fb-9f01-babbeb343719.png)
-)
-
+![ScreenShot](<a href="https://www.flaticon.com/free-icons/html-5" title="html 5 icons">Html 5 icons created by Freepik - Flaticon</a>)
+![ScreenShot](<a href="https://www.flaticon.com/free-icons/css-3" title="css 3 icons">Css 3 icons created by Freepik - Flaticon</a>)
+![ScreenShot](<a href="https://www.flaticon.com/free-icons/javascript" title="javascript icons">Javascript icons created by edt.im - Flaticon</a>)
 ## Frameworks
 
 [![]https://webpack.js.org/ https://getbootstrap.com/
