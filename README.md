@@ -22,10 +22,10 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________________________________________
 
 ## Languages 
-![image](![Screen Shot 2022-10-13 at 01 26 51](https://user-images.githubusercontent.com/98466955/195466050-0fe07f49-0878-4c24-9973-2276687eab64.png)
-![image](![Screen Shot 2022-10-13 at 01 27 00](https://user-images.githubusercontent.com/98466955/195466071-6a2482b7-5c68-426b-b4f1-705eca7dcdc3.png)
+![ScreenShot](![Screen Shot 2022-10-13 at 01 26 51](https://user-images.githubusercontent.com/98466955/195466050-0fe07f49-0878-4c24-9973-2276687eab64.png)
+![ScreenShot](![Screen Shot 2022-10-13 at 01 27 00](https://user-images.githubusercontent.com/98466955/195466071-6a2482b7-5c68-426b-b4f1-705eca7dcdc3.png)
 )
-![image](![Screen Shot 2022-10-13 at 01 27 07](https://user-images.githubusercontent.com/98466955/195466084-0d5b1cb9-3c2b-40fb-9f01-babbeb343719.png)
+![ScreenShot](![Screen Shot 2022-10-13 at 01 27 07](https://user-images.githubusercontent.com/98466955/195466084-0d5b1cb9-3c2b-40fb-9f01-babbeb343719.png)
 )
 
 ## Frameworks
