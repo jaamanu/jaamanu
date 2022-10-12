@@ -66,7 +66,7 @@ https://github.com/jaamanu  https://git-scm.com/
 
 [![CompTia Network+Ce/1](https://img.shields.io/badge/Network+Ce/1-CompTiaCertification-1.svg)](https://www.credly.com/badges/941bc398-6d68-4886-8226-00c1ba78ec14/linked_in_profile)
 
-[![UDEMY AWS CloudPractitioner/1](https://img.shields.io/badge/CloudPractitioner/1-UDEMY-1.svg)](https://www.udemy.com/certificate/UC-4789aaae-6c97-47eb-94e1-dbe6627d52e1/)
+[![UDEMY AWS CloudPractitioner/1](https://img.shields.io/badge/CloudPractitioner/1-UDEMY-1.svg)](https://www.udemy.com/certificate/UC-4789aaae-6c97-47eb-94e1-dbe6627d52e1)
 
 
 ## Feedback
