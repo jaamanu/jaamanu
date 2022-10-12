@@ -24,6 +24,8 @@ ________________________________________________________________________________
 ## Languages 
 https://www.w3.org/html/ https://www.w3schools.com/css/ https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
+![image](https://www.pngfind.com/pngs/m/683-6834215_html-css-js-icon-hd-png-download.png)
+
 ## Frameworks
 
 https://webpack.js.org/ https://getbootstrap.com/
