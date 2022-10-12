@@ -3,8 +3,8 @@ ________________________________________________________________________________
 
  ## About Me
  
--I hold a Chemical Engineering Degree from Kumasi Technical University Ghana
--Currently Enrolled with Microverse, a computer programming institute, where i am learning technical,professional and soft skills to become a  Software   Developer.
+- I hold a Chemical Engineering Degree from Kumasi Technical University Ghana
+- Currently Enrolled with Microverse, a computer programming institute, where i am learning technical,professional and soft skills to become a           Software   Developer.
 
 ___________________________________________________________________________________________________________________________________________________________
 
@@ -22,9 +22,9 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________________________________
 
 ## Languages 
--HTML 
--CSS
--JAVACSRIPT
+- HTML 
+- CSS
+- JAVACSRIPT
 
 ## Frameworks
 
