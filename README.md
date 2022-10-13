@@ -1,4 +1,4 @@
- ![hello](https://user-images.githubusercontent.com/98466955/195471966-9560041a-eabe-4878-bc36-de492d0b8799.png) Nice to see you. I'm James A Manu,                                                           Welcome to my page!
+ ![hello (1)](https://user-images.githubusercontent.com/98466955/195472200-bd0cf9a5-de30-4f1d-be64-4f59617a8518.png)Nice to see you. I'm James A Manu,                                                           Welcome to my page!
 ___________________________________________________________________________________________________________________________________________________
 
  ## About Me
