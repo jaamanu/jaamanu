@@ -64,7 +64,7 @@ https://github.com/jaamanu  https://git-scm.com/
 [![Microverse IntroWebDevelopment/1](https://img.shields.io/badge/IntroWebDevelopment/1-MicroverseCertificate-1.svg)](https://www.credential.net/8a4b8512-445f-49c1-a97e-6f2576c9edb3)
 [![Microverse HTML/CSS License](https://img.shields.io/badge/HTML/CSS-MicroverseCertificate-1.svg)](https://www.credential.net/8a4b8512-445f-49c1-a97e-6f2576c9edb3#gs.fftznz)
 [![CompTia Network+Ce/1](https://img.shields.io/badge/Network+Ce/1-CompTiaCertification-1.svg)](https://www.credly.com/badges/941bc398-6d68-4886-8226-00c1ba78ec14/linked_in_profile)
-[![UDEMY AWS CloudPractitioner/1](https://img.shields.io/badge/CloudPractitioner/1-UDEMY-1.svg)](https://www.udemy.com/certificate/UC-4789aaae-6c97-47eb-94e1-dbe6627d52e1)
+[![UDEMY AWSCloudPractitioner/1](https://img.shields.io/badge/AWSCloudPractitioner/1-UDEMY-1.svg)](https://www.udemy.com/certificate/UC-4789aaae-6c97-47eb-94e1-dbe6627d52e1)
 
 
 
