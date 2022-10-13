@@ -60,7 +60,8 @@ ________________________________________________________________________________
 ![git](https://user-images.githubusercontent.com/98466955/195476809-1dbe8838-a259-4cd5-a520-08a2d73a5b3d.png)
 
 
-
+<h3> Visitors count </h3>
+<img src="https://profile-counter.glitch.me/jaamanu/count.svg" /><br/>
 
 
 ## Feedback
