@@ -25,20 +25,23 @@ ________________________________________________________________________________
 ![html-5 (3)](https://user-images.githubusercontent.com/98466955/195468583-f1d0a3cc-e0d1-4626-8b11-10f58a3d8486.png)
 ![css-3 (2)](https://user-images.githubusercontent.com/98466955/195469125-5644400c-732b-4a43-a4e0-8c9213d84743.png)
 ![java-script (1)](https://user-images.githubusercontent.com/98466955/195469780-9aed5f72-82d8-4a93-ad21-2b6327b47b32.png)
-
-
+![visual-studio-code](https://user-images.githubusercontent.com/98466955/195476626-69c30c8b-ca99-4e6d-88dc-1c9bad957454.png)
 
 ## Frameworks
 ![bootstrap](https://user-images.githubusercontent.com/98466955/195473368-f4b048b7-e3af-4cd3-a90f-f85834d4628a.png)
 ![webpack (2)](https://user-images.githubusercontent.com/98466955/195474253-40bebee2-5e4c-4503-8875-629961cd7b15.png)
+![sass](https://user-images.githubusercontent.com/98466955/195476359-9250572e-a9c4-4f56-b400-aa49b9676403.png)
+
 
 ## Testing
 ![jest](https://user-images.githubusercontent.com/98466955/195473686-757890dd-97c6-414f-8d88-37ed3e6dfba4.png)
 
 ## Version Control & CI/CD
+![git](https://user-images.githubusercontent.com/98466955/195476809-1dbe8838-a259-4cd5-a520-08a2d73a5b3d.png)
+![github-logo](https://user-images.githubusercontent.com/98466955/195477588-884b92e8-2092-4513-8352-d0c6eaa5e7b5.png)
 
 
-## Communitie/Forum
+## Communittie/Forum
 
 
 
