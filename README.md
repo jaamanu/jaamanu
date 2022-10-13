@@ -1,4 +1,4 @@
-![image](https://cdn-icons-gif.flaticon.com/6416/6416338.gif) Nice to see you. I'm James A Manu, Welcome to my page!
+ ![hello](https://user-images.githubusercontent.com/98466955/195471966-9560041a-eabe-4878-bc36-de492d0b8799.png) Nice to see you. I'm James A Manu,                                                           Welcome to my page!
 ___________________________________________________________________________________________________________________________________________________
 
  ## About Me
