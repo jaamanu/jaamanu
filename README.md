@@ -31,10 +31,10 @@ ________________________________________________________________________________
  
 | Activities  |   Languages  |
 | ----------- | ------------ |
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaamanu&show_icons=true&theme=tokyonight" alt="gedeonts" width="410" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gedeonts&show_icons=true&theme=tokyonight&layout=compact" alt="gedeonts" width="410" />|
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaamanu&show_icons=true&theme=tokyonight" alt="jaamanu" width="410" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaamanu&show_icons=true&theme=tokyonight&layout=compact" alt="gedeonts" width="410" />|
 </p>
 <p align="center">&nbsp;
-<img  width:"500" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gedeonts&" alt="gedeonts" />
+<img  width:"500" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaamanu&" alt="jaamanu" />
   </p>
 <img  src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em>Meeting people really delights me so if you want to say hello, I'll be happy to meet you! 😊 </em>
 
