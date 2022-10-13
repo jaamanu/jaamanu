@@ -58,7 +58,7 @@ ________________________________________________________________________________
 
 ## Version Control & CI/CD
 ![git](https://user-images.githubusercontent.com/98466955/195476809-1dbe8838-a259-4cd5-a520-08a2d73a5b3d.png)
-![github-logo](https://user-images.githubusercontent.com/98466955/195613629-95bdc50e-c2ca-487b-ab6a-468f4cc01c56.png)
+
 
 
 
