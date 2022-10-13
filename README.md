@@ -30,22 +30,13 @@ ________________________________________________________________________________
 
 ## Frameworks
 ![bootstrap](https://user-images.githubusercontent.com/98466955/195473368-f4b048b7-e3af-4cd3-a90f-f85834d4628a.png)
-![webpack](https://user-images.githubusercontent.com/98466955/195473406-8a4e7187-4236-4090-b7ec-934afbbc3389.png)
-
+![webpack (1)](https://user-images.githubusercontent.com/98466955/195473524-486d077a-013b-4180-9d0b-3496e280ad6d.png)
 
 ## Testing
-
-https://jestjs.io/
+![jest](https://user-images.githubusercontent.com/98466955/195473686-757890dd-97c6-414f-8d88-37ed3e6dfba4.png)
 
 ## Version Control & CI/CD
 
-https://github.com/jaamanu  https://git-scm.com/
-
-## Tech Stack
-
-**Client:** React, Redux, TailwindCSS
-
-**Server:** Node, Express
 
 ## Communitie/Forum
 
@@ -57,8 +48,6 @@ https://github.com/jaamanu  https://git-scm.com/
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jaamanu.github.io/Project-Portfolio/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamesasibeymanu)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JamesAsibeyManu)
-
-
 
 
 ## Certifications/License
