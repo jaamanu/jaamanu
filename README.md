@@ -1,5 +1,31 @@
- ![hello (1)](https://user-images.githubusercontent.com/98466955/195472200-bd0cf9a5-de30-4f1d-be64-4f59617a8518.png)Nice to see you. I'm James A Manu,                                                           Welcome to my page!
-___________________________________________________________________________________________________________________________________________________
+<h1 align="center">Hi there, I'm James!<img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"></h1>___________________________________________________________________________________________________________________________________________________
+<!-- Social icons section -->
+<p align="center">
+<a  href="https://twitter.com/JamesAsibeyManu"  target="_blank">
+<img  align="center"  src="https://user-images.githubusercontent.com/98466955/195562079-ddcec4f1-a5c2-47ba-a4cd-a7ca5ad10ccc.png" height="60"  width="60"  /></a>
+&#8287;&#8287;&#8287;
+<a  href="https://www.linkedin.com/in/ushindi-gedeon"  target="_blank">
+<img  align="center"  src="https://img.icons8.com/doodle/2x/linkedin.png" height="40"  width="40"  /></a>
+&#8287;&#8287;&#8287;
+<a href="mailto:gedeontshobohwa1@gmail.com" target="_blank">
+<img  align="center"  src="https://img.icons8.com/doodle/2x/gmail.png"  height="40"  width="40"  /></a> 
+&#8287;&#8287;&#8287;
+<a  href="https://www.facebook.com/gedeon.tshobohwa/"  target="_blank">
+<img  align="center"  src="https://img.icons8.com/doodle/2x/facebook.png" height="40"  width="40"  /></a>
+&#8287;&#8287;&#8287;
+<a href="https://www.instagram.com/ushindi_gedeon/" target="_blank">
+<img  align="center"  src="https://img.icons8.com/doodle/2x/instagram.png"  height="40"  width="40"  /></a>
+</p>
+
+
+
+
+
+
+
+
+
+
 
  ## About Me
  
