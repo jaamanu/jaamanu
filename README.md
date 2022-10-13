@@ -1,37 +1,20 @@
 <h1 align="center">Hi there, I'm James!<img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"></h1>___________________________________________________________________________________________________________________________________________________
 <!-- Social icons section -->
 <p align="center">
+ <a  href="https://www.linkedin.com/in/jamesasibeymanu/"  target="_blank">
+<img  align="center"  src="https://user-images.githubusercontent.com/98466955/195567791-3c1a6ea7-62aa-49f4-a790-c1a515b3f811.gif" height="70"  width="70"  /></a>
+&#8287;&#8287;&#8287;
 <a  href="https://twitter.com/JamesAsibeyManu"  target="_blank">
-<img  align="center"  src="https://user-images.githubusercontent.com/98466955/195562079-ddcec4f1-a5c2-47ba-a4cd-a7ca5ad10ccc.png" height="60"  width="60"  /></a>
+<img  align="center"  src="https://user-images.githubusercontent.com/98466955/195566671-f3328fbe-1b77-4500-b6fb-b9d92fa9c011.gif" height="60"  width="60"  /></a>
 &#8287;&#8287;&#8287;
-<a  href="https://www.linkedin.com/in/jamesasibeymanu/"  target="_blank">
-<img  align="center"  src="https://user-images.githubusercontent.com/98466955/195563154-f8187fa6-18c9-4ac0-93fb-e55ea4a33378.png
-" height="60"  width="60"  /></a>
+<a href="mailto:jaamanu@gmail.com" target="_blank">
+<img  align="center"  src="https://user-images.githubusercontent.com/98466955/195565804-e5ee1df3-f584-4b6a-af87-581db17d3d77.gif"  height="60"  width="60"  /></a> 
 &#8287;&#8287;&#8287;
-<a href="mailto:gedeontshobohwa1@gmail.com" target="_blank">
-<img  align="center"  src="https://img.icons8.com/doodle/2x/gmail.png"  height="40"  width="40"  /></a> 
-&#8287;&#8287;&#8287;
-<a  href="https://www.facebook.com/gedeon.tshobohwa/"  target="_blank">
-<img  align="center"  src="https://img.icons8.com/doodle/2x/facebook.png" height="40"  width="40"  /></a>
-&#8287;&#8287;&#8287;
-<a href="https://www.instagram.com/ushindi_gedeon/" target="_blank">
-<img  align="center"  src="https://img.icons8.com/doodle/2x/instagram.png"  height="40"  width="40"  /></a>
-</p>
 
-
-
-
-
-
-
-
-
-
-
- ## About Me
- 
-- I hold a Chemical Engineering Degree from Kumasi Technical University Ghana
-- Currently Enrolled with Microverse, a computer programming institute, where i am learning technical,professional and soft skills to become a           Software   Developer.
+- 🎓 I'm a software developer, I hold a Chemical Engineering Degree from Kumasi Technical University Ghana.</br><br>
+-  👩‍💻 I’m currently training to become a **Full-Stack Software Engineer** at 
+[Microverse](https://www.microverse.org/), a remote and diverse environment<br></br>
+- 💻 All **my projects** are available [here.](https://github.com/jaamanu?tab=repositories).<br><br>
 
 ______________________________________________________________________________________________________________________________________________________
 
