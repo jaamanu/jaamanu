@@ -17,17 +17,16 @@
 - 💻 All **my projects** are available [here.](https://github.com/jaamanu?tab=repositories).<br><br>
 
 ______________________________________________________________________________________________________________________________________________________
+### Certificates & Licenses 🥇
+ <p align="left">
+   &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/92024a07-e111-4029-af67-f44598081c8a#gs.fin7fz" target="blank"><img src="https://user-images.githubusercontent.com/98466955/195572972-55d4ac48-a8b3-4ce6-ac6c-b5fa18b7eff4.png" width="80"></a> 
+    &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/8a4b8512-445f-49c1-a97e-6f2576c9edb3#gs.ficvyo" target="blank"><img src="https://user-images.githubusercontent.com/98466955/195572345-2ed06552-1533-41c5-b646-e32254595890.png" width="80"></a> 
+   &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.udemy.com/certificate/UC-4789aaae-6c97-47eb-94e1-dbe6627d52e1/" target="blank"><img src="https://user-images.githubusercontent.com/98466955/195573897-0fcc27af-8399-4a54-9776-f22b5d7c8396.jpeg" width="80"></a> 
+ </p>   
+  
+  
+ ____________________________________________________________________________________________________________________________________________________
 
-![image](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e)
-
-
-- 🔭 I’m currently studying at Microverse.
-
-- 🌱 I’m currently learning JavaScript, ES6, React, Node.js and Ruby
-
-- 👯 I’m looking to collaborate on Projects and other cool creations.
-
-______________________________________________________________________________________________________________________________________________________
 ## TECHNOLOGIES 
 ______________________________________________________________________________________________________________________________________________________
 
