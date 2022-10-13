@@ -30,7 +30,7 @@ ________________________________________________________________________________
 
 ## Frameworks
 ![bootstrap](https://user-images.githubusercontent.com/98466955/195473368-f4b048b7-e3af-4cd3-a90f-f85834d4628a.png)
-![webpck](https://getbootstrap.com/docs/5.2/getting-started/webpack)
+![webpack (2)](https://user-images.githubusercontent.com/98466955/195474253-40bebee2-5e4c-4503-8875-629961cd7b15.png)
 
 ## Testing
 ![jest](https://user-images.githubusercontent.com/98466955/195473686-757890dd-97c6-414f-8d88-37ed3e6dfba4.png)
