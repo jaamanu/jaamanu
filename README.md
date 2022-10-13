@@ -41,11 +41,6 @@ ________________________________________________________________________________
 ![github-logo](https://user-images.githubusercontent.com/98466955/195477588-884b92e8-2092-4513-8352-d0c6eaa5e7b5.png)
 
 
-## Communittie/Forum
-
-
-
-
 ## Contact Me
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jaamanu.github.io/Project-Portfolio/)
@@ -65,4 +60,4 @@ ________________________________________________________________________________
 ## Feedback
 
 - 📫 If you have any feedback, please reach out to me at jaamanu@gmail.com
--
+
