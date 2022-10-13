@@ -1,4 +1,4 @@
- # Hello ![wave](https://user-images.githubusercontent.com/98466955/195470984-66d9de08-a443-4c2c-8f77-f8769ba1398f.gif)
+![wave](https://user-images.githubusercontent.com/98466955/195470984-66d9de08-a443-4c2c-8f77-f8769ba1398f.gif)
  Nice to see you. I'm James A Manu, Welcome to my page!
 ___________________________________________________________________________________________________________________________________________________
 
