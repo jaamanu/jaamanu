@@ -1,4 +1,5 @@
-<h1 align="center">Hi there, I'm James!<img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"></h1>___________________________________________________________________________________________________________________________________________________
+<h1 align="center">Hi there, I'm James!<img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"></h1>
+__________________________________________________________________________________________________________________________________________________
 <!-- Social icons section -->
 <p align="center">
  <a  href="https://www.linkedin.com/in/jamesasibeymanu/"  target="_blank">
