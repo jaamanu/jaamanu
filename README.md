@@ -23,6 +23,10 @@ ________________________________________________________________________________
 
 ## Languages 
 ![html-5 (3)](https://user-images.githubusercontent.com/98466955/195468583-f1d0a3cc-e0d1-4626-8b11-10f58a3d8486.png)
+![css-3 (2)](https://user-images.githubusercontent.com/98466955/195469125-5644400c-732b-4a43-a4e0-8c9213d84743.png)
+![java-script (1)](https://user-images.githubusercontent.com/98466955/195469780-9aed5f72-82d8-4a93-ad21-2b6327b47b32.png)
+
+
 
 ## Frameworks
 
