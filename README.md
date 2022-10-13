@@ -4,8 +4,9 @@
 <a  href="https://twitter.com/JamesAsibeyManu"  target="_blank">
 <img  align="center"  src="https://user-images.githubusercontent.com/98466955/195562079-ddcec4f1-a5c2-47ba-a4cd-a7ca5ad10ccc.png" height="60"  width="60"  /></a>
 &#8287;&#8287;&#8287;
-<a  href="https://www.linkedin.com/in/ushindi-gedeon"  target="_blank">
-<img  align="center"  src="https://img.icons8.com/doodle/2x/linkedin.png" height="40"  width="40"  /></a>
+<a  href="https://www.linkedin.com/in/jamesasibeymanu/"  target="_blank">
+<img  align="center"  src="![linkedin-logo](https://user-images.githubusercontent.com/98466955/195563154-f8187fa6-18c9-4ac0-93fb-e55ea4a33378.png)
+" height="40"  width="40"  /></a>
 &#8287;&#8287;&#8287;
 <a href="mailto:gedeontshobohwa1@gmail.com" target="_blank">
 <img  align="center"  src="https://img.icons8.com/doodle/2x/gmail.png"  height="40"  width="40"  /></a> 
