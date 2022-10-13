@@ -26,11 +26,19 @@ ________________________________________________________________________________
   &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credly.com/badges/744850d7-2919-4388-8c8c-72c8ceb7bdbd" target="blank"><img src="https://user-images.githubusercontent.com/98466955/195579743-7592a248-dad6-456c-90b5-559a43075d9d.png" width="80"></a> 
  </p>   
   
-  
-_____________________________________________________________________________________________________________________________________________________
 
-## TECHNOLOGIES 
-______________________________________________________________________________________________________________________________________________________
+<p align="center">&nbsp;
+ 
+| Activities  |   Languages  |
+| ----------- | ------------ |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaamanu&show_icons=true&theme=tokyonight" alt="gedeonts" width="410" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gedeonts&show_icons=true&theme=tokyonight&layout=compact" alt="gedeonts" width="410" />|
+</p>
+<p align="center">&nbsp;
+<img  width:"500" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gedeonts&" alt="gedeonts" />
+  </p>
+<img  src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em>Meeting people really delights me so if you want to say hello, I'll be happy to meet you! 😊 </em>
+
+
 
 ## Languages 
 ![html-5 (3)](https://user-images.githubusercontent.com/98466955/195468583-f1d0a3cc-e0d1-4626-8b11-10f58a3d8486.png)
@@ -52,19 +60,8 @@ ________________________________________________________________________________
 ![github-logo](https://user-images.githubusercontent.com/98466955/195477588-884b92e8-2092-4513-8352-d0c6eaa5e7b5.png)
 
 
-## Contact Me
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jaamanu.github.io/Project-Portfolio/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamesasibeymanu)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JamesAsibeyManu)
 
 
-## Certifications/License
-
-[![Microverse IntroWebDevelopment/1](https://img.shields.io/badge/IntroWebDevelopment/1-MicroverseCertificate-1.svg)](https://www.credential.net/8a4b8512-445f-49c1-a97e-6f2576c9edb3)
-[![Microverse HTML/CSS License](https://img.shields.io/badge/HTML/CSS-MicroverseCertificate-1.svg)](https://www.credential.net/8a4b8512-445f-49c1-a97e-6f2576c9edb3#gs.fftznz)
-[![CompTia Network+Ce/1](https://img.shields.io/badge/Network+Ce/1-CompTiaCertification-1.svg)](https://www.credly.com/badges/941bc398-6d68-4886-8226-00c1ba78ec14/linked_in_profile)
-[![UDEMY AWSCloudPractitioner/1](https://img.shields.io/badge/AWSCloudPractitioner/1-UDEMY-1.svg)](https://www.udemy.com/certificate/UC-4789aaae-6c97-47eb-94e1-dbe6627d52e1)
 
 
 
