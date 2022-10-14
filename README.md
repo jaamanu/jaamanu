@@ -24,7 +24,7 @@ ________________________________________________________________________________
     &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/8a4b8512-445f-49c1-a97e-6f2576c9edb3#gs.ficvyo" target="blank"><img src="https://user-images.githubusercontent.com/98466955/195572345-2ed06552-1533-41c5-b646-e32254595890.png" width="80"></a> 
    &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.udemy.com/certificate/UC-4789aaae-6c97-47eb-94e1-dbe6627d52e1/" target="blank"><img src="https://user-images.githubusercontent.com/98466955/195573897-0fcc27af-8399-4a54-9776-f22b5d7c8396.jpeg" width="80"></a>
   &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://coursera.org/share/90cbfea5fde05e09ee38365b10d6334b" target="blank"><img src="https://user-images.githubusercontent.com/98466955/195579521-3d98a2b5-e214-4ee9-ad07-d96468f3d817.jpeg" width="80"></a>
-  &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credly.com/badges/744850d7-2919-4388-8c8c-72c8ceb7bdbd" target="blank"><img src="https://user-images.githubusercontent.com/98466955/195579743-7592a248-dad6-456c-90b5-559a43075d9d.png" width="80"></a> 
+
  </p>   
   
 
@@ -32,7 +32,7 @@ ________________________________________________________________________________
  
 | Activities  |   Languages  |
 | ----------- | ------------ |
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaamanu&show_icons=true&theme=tokyonight" alt="jaamanu" width="410" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaamanu&show_icons=true&theme=tokyonight&layout=compact" alt="gedeonts" width="410" />|
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaamanu&show_icons=true&theme=tokyonight" alt="jaamanu" width="410" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaamanu&show_icons=true&theme=tokyonight&layout=compact" alt="jaamanu" width="410" />|
 </p>
 <p align="center">&nbsp;
 <img  width:"500" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaamanu&" alt="jaamanu" />
