@@ -24,6 +24,7 @@ ________________________________________________________________________________
     &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/8a4b8512-445f-49c1-a97e-6f2576c9edb3#gs.ficvyo" target="blank"><img src="https://user-images.githubusercontent.com/98466955/195572345-2ed06552-1533-41c5-b646-e32254595890.png" width="80"></a>
  &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/cf9bb67f-9368-4717-ad6e-00a480f47c26#gs.iearsm" target="blank"><img src="https://templates.images.credential.net/15959755104909798720520579501098.png" width="80"></a>
  &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/2ebc4d76-16cb-4c52-bf06-89b8584665f1#gs.kfycov" target="blank"><img src="https://templates.images.credential.net/15790419775515809487933217124360.png" width="80"></a>
+ &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/11ee16a2-67fc-4a81-8723-c30486e86bf8" target="blank"><img src="https://templates.images.credential.net/15790419775515809487933217124360.png" width="80"></a>
  &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.udemy.com/certificate/UC-4789aaae-6c97-47eb-94e1-dbe6627d52e1/" target="blank"><img src="https://user-images.githubusercontent.com/98466955/195573897-0fcc27af-8399-4a54-9776-f22b5d7c8396.jpeg" width="80"></a>
   &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://coursera.org/share/90cbfea5fde05e09ee38365b10d6334b" target="blank"><img src="https://user-images.githubusercontent.com/98466955/195579521-3d98a2b5-e214-4ee9-ad07-d96468f3d817.jpeg" width="80"></a>
 
@@ -69,4 +70,3 @@ ________________________________________________________________________________
 ## Feedback
 
 - 📫 If you have any feedback, please reach out to me at jaamanu@gmail.com
-
