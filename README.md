@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm James!<img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"></h1>
-_______________________________________________________________________________________________________________________________________
+<!-----------------------------------  Social Links------------------------------->
 <!-- Social icons section -->
 <p align="center">
  <a  href="https://www.linkedin.com/in/jamesasibeymanu/"  target="_blank">
@@ -34,7 +34,7 @@ ________________________________________________________________________________
 [Microverse](https://www.microverse.org/), a remote and diverse environment<br></br>
 💻 All **my projects** are available [here.](https://github.com/jaamanu?tab=repositories).<br><br>
 
-___________________________________________________________________________________________________________________________________________________________
+<!----------------------------------- LICENSES ------------------------------->
 
 ### Certificates & Licenses 🥇
  <p align="left">
@@ -48,6 +48,7 @@ ________________________________________________________________________________
 
  </p>   
   
+<!----------------------------------- GitHub Stats Section ------------------------------->
 
 <p align="center">&nbsp;     
  
