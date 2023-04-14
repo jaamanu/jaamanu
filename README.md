@@ -1,6 +1,5 @@
 <h1 align="center">Hi there, I'm James!<img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"></h1>
 <!-----------------------------------  Social Links------------------------------->
-<!-- Social icons section -->
 <p align="center">
  <a  href="https://www.linkedin.com/in/jamesasibeymanu/"  target="_blank">
 <img  align="center"  src="https://user-images.githubusercontent.com/98466955/195613046-9ecccd6e-b96e-45f9-84b2-c7ea1086479f.gif" height="70"  width="70"  /></a>
