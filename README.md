@@ -64,22 +64,8 @@
 
 
 ## Languages 
-![html-5 (3)](https://user-images.githubusercontent.com/98466955/195468583-f1d0a3cc-e0d1-4626-8b11-10f58a3d8486.png)
-![css-3 (2)](https://user-images.githubusercontent.com/98466955/195469125-5644400c-732b-4a43-a4e0-8c9213d84743.png)
-![java-script (1)](https://user-images.githubusercontent.com/98466955/195469780-9aed5f72-82d8-4a93-ad21-2b6327b47b32.png)
-![visual-studio-code](https://user-images.githubusercontent.com/98466955/195476626-69c30c8b-ca99-4e6d-88dc-1c9bad957454.png)
-
-## Frameworks
-![bootstrap](https://user-images.githubusercontent.com/98466955/195473368-f4b048b7-e3af-4cd3-a90f-f85834d4628a.png)
-![webpack (2)](https://user-images.githubusercontent.com/98466955/195474253-40bebee2-5e4c-4503-8875-629961cd7b15.png)
-![sass](https://user-images.githubusercontent.com/98466955/195476359-9250572e-a9c4-4f56-b400-aa49b9676403.png)
-
-
-## Testing
-![jest](https://user-images.githubusercontent.com/98466955/195473686-757890dd-97c6-414f-8d88-37ed3e6dfba4.png)
-
-## Version Control & CI/CD
-![git](https://user-images.githubusercontent.com/98466955/195476809-1dbe8838-a259-4cd5-a520-08a2d73a5b3d.png)
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://ruby.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://react.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ruby" width="40" height="40"/> </a> <a href="http://google.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="restapi" width="40" height="40"/> </a> <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="40" height="40" alt="vscode"/> <img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" height="40" width="40" /> <img src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" height="40" width="40" /> <img src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png" height="40" width="40" alt="webpack"/> <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" height="40" width="40" alt="npm"/></p>
 
 
 <h3> Visitors count </h3>
