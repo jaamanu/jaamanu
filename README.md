@@ -17,7 +17,7 @@ ________________________________________________________________________________
 [Microverse](https://www.microverse.org/), a remote and diverse environment<br></br>
 - 💻 All **my projects** are available [here.](https://github.com/jaamanu?tab=repositories).<br><br>
 
-___________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________________
 ### Certificates & Licenses 🥇
  <p align="left">
    &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/92024a07-e111-4029-af67-f44598081c8a#gs.fin7fz" target="blank"><img src="https://user-images.githubusercontent.com/98466955/195572972-55d4ac48-a8b3-4ce6-ac6c-b5fa18b7eff4.png" width="100"></a> 
