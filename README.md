@@ -47,6 +47,7 @@
 
  </p>   
   
+<h2><i>My GitHub Stats</i></h2>
 <!----------------------------------- GitHub Stats Section ------------------------------->
 
 <p align="center">&nbsp;     
