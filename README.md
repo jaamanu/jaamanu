@@ -13,23 +13,23 @@ ________________________________________________________________________________
 &#8287;&#8287;&#8287;
  
  
- 
- 
- **kennyegun24/kennyegun24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<h1 align="center">Hi 👋, I'm Kenny Elias</h1>
+ **jaamanu/jaamanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm James</h1>
 
 <h2 align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20Web%20Developer;Enrolled%20at%20Microverse&font=Fira%20Code&center=true&width=440&height=45&color=258F76&vCenter=true&size=30&pause=1000"></h2>
 
-<h3 align="center">A passionate Fullstack developer from Ghana</h3>- 👯 I’m looking to collaborate on **Any project**
-- 🤝 I’m looking for help with **Any type of project**
-- 🎓 I'm a software developer, I hold a Chemical Engineering Degree from Kumasi Technical University Ghana.</br><br>
-- 👩‍💻 I’m currently training to become a **Full-Stack Software Engineer** at 
-- 💬 Ask me about **JavaScript, React, Ruby on Rails, RestAPIs**
-- ⚡ Fun fact **I think I am fun to work with and I can work based on any type of requirement.**</h4>
+<h3 align="center">A passionate Fullstack developer from Ghana</h3>
+👯 I’m looking to collaborate on **Any project**
+🤝 I’m looking for help with **Any type of project**
+🎓 I'm a software developer, I hold a Chemical Engineering Degree from Kumasi Technical University Ghana.</br><br>
+👩‍💻 I’m currently training to become a **Full-Stack Software Engineer** at 
+💬 Ask me about **JavaScript, React, Ruby on Rails, RestAPIs**
+⚡ Fun fact **I think I am fun to work with and I can work based on any type of requirement.**</h4>
 [Microverse](https://www.microverse.org/), a remote and diverse environment<br></br>
-- 💻 All **my projects** are available [here.](https://github.com/jaamanu?tab=repositories).<br><br>
+💻 All **my projects** are available [here.](https://github.com/jaamanu?tab=repositories).<br><br>
 
 ___________________________________________________________________________________________________________________________________________________________
+
 ### Certificates & Licenses 🥇
  <p align="left">
    &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/92024a07-e111-4029-af67-f44598081c8a#gs.fin7fz" target="blank"><img src="https://user-images.githubusercontent.com/98466955/195572972-55d4ac48-a8b3-4ce6-ac6c-b5fa18b7eff4.png" width="100"></a> 
