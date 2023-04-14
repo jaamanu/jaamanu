@@ -11,9 +11,12 @@ ________________________________________________________________________________
 <a href="mailto:jaamanu@gmail.com" target="_blank">
 <img  align="center"  src="https://user-images.githubusercontent.com/98466955/195565804-e5ee1df3-f584-4b6a-af87-581db17d3d77.gif"  height="60"  width="60"  /></a> 
 &#8287;&#8287;&#8287;
-
+- 👯 I’m looking to collaborate on **Any project**
+- 🤝 I’m looking for help with **Any type of project**
 - 🎓 I'm a software developer, I hold a Chemical Engineering Degree from Kumasi Technical University Ghana.</br><br>
--  👩‍💻 I’m currently training to become a **Full-Stack Software Engineer** at 
+- 👩‍💻 I’m currently training to become a **Full-Stack Software Engineer** at 
+- 💬 Ask me about **JavaScript, React, Ruby on Rails, RestAPIs**
+- ⚡ Fun fact **I think I am fun to work with and I can work based on any type of requirement.**</h4>
 [Microverse](https://www.microverse.org/), a remote and diverse environment<br></br>
 - 💻 All **my projects** are available [here.](https://github.com/jaamanu?tab=repositories).<br><br>
 
