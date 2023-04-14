@@ -30,7 +30,6 @@
 
 ⚡ Fun fact **I think I am fun to work with and I can work based on any type of requirement.**</h4>
 
-[Microverse](https://www.microverse.org/), a remote and diverse environment<br></br>
 💻 All **my projects** are available [here.](https://github.com/jaamanu?tab=repositories).<br><br>
 
 <!----------------------------------- LICENSES ------------------------------->
