@@ -14,17 +14,23 @@ ________________________________________________________________________________
  
  
  **jaamanu/jaamanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<h1 align="center">Hi 👋, I'm James</h1>
 
 <h2 align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20Web%20Developer;Enrolled%20at%20Microverse&font=Fira%20Code&center=true&width=440&height=45&color=258F76&vCenter=true&size=30&pause=1000"></h2>
 
 <h3 align="center">A passionate Fullstack developer from Ghana</h3>
+ 
 👯 I’m looking to collaborate on **Any project**
+ 
 🤝 I’m looking for help with **Any type of project**
+ 
 🎓 I'm a software developer, I hold a Chemical Engineering Degree from Kumasi Technical University Ghana.</br><br>
-👩‍💻 I’m currently training to become a **Full-Stack Software Engineer** at 
+
+👩‍💻 I’m currently training to become a **Full-Stack Software Engineer**
+
 💬 Ask me about **JavaScript, React, Ruby on Rails, RestAPIs**
+
 ⚡ Fun fact **I think I am fun to work with and I can work based on any type of requirement.**</h4>
+
 [Microverse](https://www.microverse.org/), a remote and diverse environment<br></br>
 💻 All **my projects** are available [here.](https://github.com/jaamanu?tab=repositories).<br><br>
 
