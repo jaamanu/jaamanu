@@ -16,7 +16,7 @@
 
 <h2 align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=FULLSTACK%20WEB%20DEVELOPER;I%20Am%20Micronaut&font=Fira%20Code&center=true&width=440&height=45&color=ff0000&vCenter=true&size=30&pause=1000"></h2>
 
-<h3 align="center">A passionate Fullstack developer from Ghana</h3>
+<h3 align="center">A passionate Fullstack developer</h3>
  
 👯 I’m looking to collaborate on **Any project**
  
